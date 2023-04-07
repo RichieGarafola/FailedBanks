@@ -8,6 +8,13 @@ By running the dashboard locally on your machine, you can access a range of inte
 
 So, whether you're a researcher trying to understand the causes of bank failures, a policymaker looking to develop regulations to prevent future failures, or a financial analyst trying to gain insights into the industry, this dashboard is the perfect tool for exploring the data on failed banks in the United States.
 
+---
+
+Deployed Streamlit App: 
+https://failedbanks.streamlit.app/
+
+---
+
 ## Installation
 To install the required packages, clone this repository and run the following command in your terminal:
 
